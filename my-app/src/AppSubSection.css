@@ -1,0 +1,12 @@
+.AppSubSection{
+    min-height: 100px;
+    background-color:#07299c;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.red{
+    color: red;
+}
